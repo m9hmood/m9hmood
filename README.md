@@ -7,8 +7,8 @@ Hi, I'm Mahmood Abbas, I'm a JavaScript Developer that focuses on the Vue.js, Re
 
 ## Personal Stuff
 
--   👨🏻‍💻 I’m currently working at [Enjaz](https://enjaz.tech);
-- 🌱 I’m currently learning C++;
+- 👨🏻‍💻 I’m currently working at [Supercell](https://supercellnetwork.com/);
+- 🌱 I’m currently learning more about JS;
 - 💬 Ask me about anything, I am happy to help;
 
 ## Languages and Tools:
@@ -18,7 +18,7 @@ Hi, I'm Mahmood Abbas, I'm a JavaScript Developer that focuses on the Vue.js, Re
 [Reduce vue.js application size](https://dev.to/m9hmood/reduce-vue-js-application-size-kfl)
 
 ---
-<img align="left" alt="Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=m9hmood&show_icons=true&hide_border=true" />
+<img align="left" alt="Mahmood's Github Stats" src="https://github-readme-stats.vercel.app/api?username=m9hmood&show_icons=true&hide_border=true" />
 
 
 <!--
