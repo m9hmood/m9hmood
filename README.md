@@ -7,7 +7,7 @@ Hi, I'm Mahmood Abbas, I'm a JavaScript Developer that focuses on the Vue.js, Re
 
 ## Personal Stuff
 
-- 👨🏻‍💻 I’m currently working at [Supercell](https://supercellnetwork.com/);
+- 👨🏻‍💻 I’m currently free
 - 🌱 I’m currently learning more about JS;
 - 💬 Ask me about anything, I am happy to help;
 
