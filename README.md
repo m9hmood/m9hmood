@@ -17,6 +17,8 @@ Hi, I'm Mahmood Abbas, I'm a JavaScript Developer that focuses on the Vue.js, Re
 ## Articles 
 [Reduce vue.js application size](https://dev.to/m9hmood/reduce-vue-js-application-size-kfl)
 
+[Getting the Most Out of Vite: Tips for Reducing Vue 3 Bundle Size](https://mahmood.blog/getting-the-most-out-of-vite-tips-for-reducing-vue-3-bundle-size-and-improving-performance-76961e727bb3)
+
 ---
 <img align="left" alt="Mahmood's Github Stats" src="https://github-readme-stats.vercel.app/api?username=m9hmood&show_icons=true&hide_border=true" />
 
